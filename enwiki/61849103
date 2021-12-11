@@ -1,0 +1,215 @@
+{
+  "title": "Matan Kahana",
+  "pageID": 61849103,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Bar-Ilan University alumni",
+    "Israeli Air Force personnel",
+    "Israeli colonels",
+    "Israeli Orthodox Jews",
+    "Israeli soldiers",
+    "Jewish Israeli politicians",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Government ministers of Israel",
+    "New Right (Israel) politicians",
+    "People from Haifa",
+    "Yamina politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Matan Kahana (מַתָּן כַּהֲנָא, born 29 July 1972) is an Israeli politician who serves as Minister of Religious Services.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "Minister of Religious Services",
+                  "type": "internal",
+                  "page": "Ministry of Religious Services"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Matan Kahana"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as a member of Knesset for New Right and Yamina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "text": "New Right",
+                  "type": "internal",
+                  "page": "New Right (Israel)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yamina"
+                }
+              ]
+            },
+            {
+              "text": "He was an officer in the IDF with the rank of colonel, who served as a fighter in Sayeret Matkal, and as a fighter pilot in the Israeli Air Force.",
+              "links": [
+                {
+                  "text": "IDF",
+                  "type": "internal",
+                  "page": "Israel Defense Forces"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sayeret Matkal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israeli Air Force"
+                }
+              ]
+            },
+            {
+              "text": "He was a commander of a squadron of F-16s."
+            },
+            {
+              "text": "After retiring from the army, he joined the New Right party, which is part of the Yamina alliance.",
+              "links": [
+                {
+                  "text": "New Right",
+                  "type": "internal",
+                  "page": "New Right (Israel)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "September 2019",
+          "template": "more citations needed"
+        },
+        {
+          "year": "1972",
+          "month": "07",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Matan Kahana"
+          },
+          "image": {
+            "text": "MatanK-DSC 0053a.jpg"
+          },
+          "birth_date": {
+            "text": "July 29, 1972"
+          },
+          "birth_place": {
+            "text": "Haifa, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haifa"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministerial roles"
+          },
+          "suboffice": {
+            "text": "Minister of Religious Services",
+            "links": [
+              {
+                "text": "Minister of Religious Services",
+                "type": "internal",
+                "page": "Ministry of Religious Services"
+              }
+            ]
+          },
+          "subterm": {
+            "text": "2021–"
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2019",
+            "number": 2019
+          },
+          "suboffice1": {
+            "text": "Yamina",
+            "links": [
+              {
+                "text": "Yamina",
+                "type": "internal",
+                "page": "Yamina (political alliance)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2020"
+          },
+          "suboffice2": {
+            "text": "New Right",
+            "links": [
+              {
+                "text": "New Right",
+                "type": "internal",
+                "page": "New Right (Israel)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2020–2021"
+          },
+          "suboffice3": {
+            "text": "Yamina",
+            "links": [
+              {
+                "text": "Yamina",
+                "type": "internal",
+                "page": "Yamina (political alliance)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.haaretz.co.il/news/politics/.premium-1.4811640",
+          "title": "השתלטות אסד על הגבול מציבה לישראל דילמה מוסרית",
+          "website": "www.haaretz.co.il",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

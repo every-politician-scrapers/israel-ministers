@@ -1,0 +1,249 @@
+{
+  "title": "Elazar Stern",
+  "pageID": 5224052,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "People from Tel Aviv",
+    "Israeli Jews",
+    "Tel Aviv University alumni",
+    "Bar-Ilan University alumni",
+    "Northwestern University alumni",
+    "Israeli generals",
+    "Hatnua politicians",
+    "Yesh Atid politicians",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 20th Knesset (2015–2019)",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Government ministers of Israel",
+    "Jewish Israeli politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elazar Stern (אֶלְעָזָר שְׁטֵרְן) is an Israeli politician and military general.",
+              "formatting": {
+                "bold": [
+                  "Elazar Stern"
+                ]
+              }
+            },
+            {
+              "text": "He was a major general (res.) in the Israel Defense Forces, serving as Head of the Manpower Directorate, commander of the IDF Officers Training School, and Chief Education Officer, as well as a combat soldier and commander in the Paratroopers Brigade."
+            },
+            {
+              "text": "He has served as a Member of Knesset for eight years, first, as a member of the Hatnuah party, and then in 2015 he joined the Yesh Atid, and since 2021 is serving as the Minister of Intelligence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                },
+                {
+                  "text": "Minister of Intelligence",
+                  "type": "internal",
+                  "page": "Ministry_of_Intelligence_(Israel)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician and former soldier",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "8",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Israel"
+          ],
+          "template": "flagu"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "branch": {
+            "text": "Human Resources Directorate",
+            "links": [
+              {
+                "text": "Human Resources Directorate",
+                "type": "internal",
+                "page": "Human Resources Directorate (Israel)"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1974–2008"
+          },
+          "rank": {
+            "text": "IDF aluf rotated.svg Aluf (Major General)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aluf"
+              }
+            ]
+          },
+          "commands": {
+            "text": "226th Brigade\n\nBahad 1\n\nEducation and Youth Corps",
+            "links": [
+              {
+                "text": "226th Brigade",
+                "type": "internal",
+                "page": "226th Brigade (Israel)"
+              },
+              {
+                "type": "internal",
+                "page": "Bahad 1"
+              },
+              {
+                "type": "internal",
+                "page": "Education and Youth Corps"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Lebanon war ribbon.svg First Lebanon War\n\nSouth Lebanon conflict\n\nSecond Intifada\n\nLebanon2ribon.svg Second Lebanon War",
+            "links": [
+              {
+                "text": "First Lebanon War",
+                "type": "internal",
+                "page": "1982 Lebanon War"
+              },
+              {
+                "text": "South Lebanon conflict",
+                "type": "internal",
+                "page": "South Lebanon conflict (1982–2000)"
+              },
+              {
+                "type": "internal",
+                "page": "Second Intifada"
+              },
+              {
+                "type": "internal",
+                "page": "Second Lebanon War"
+              }
+            ]
+          }
+        },
+        {
+          "image": {
+            "text": "Launch of 'British Club' for Holocaust survivors (6885477889) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Stern in 2012"
+          },
+          "birth_date": {
+            "text": "August 25, 1956"
+          },
+          "birth_place": {
+            "text": "Tel Aviv, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "suboffice1": {
+            "text": "Hatnuah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hatnuah"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministerial roles"
+          },
+          "suboffice": {
+            "text": "Minister of Intelligence",
+            "links": [
+              {
+                "text": "Minister of Intelligence",
+                "type": "internal",
+                "page": "Ministry of Intelligence (Israel)"
+              }
+            ]
+          },
+          "subterm": {
+            "text": "2021–"
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2013–2015"
+          },
+          "suboffice2": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2015–2019"
+          },
+          "suboffice3": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2019–2020"
+          },
+          "suboffice4": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2020–"
+          }
+        }
+      ]
+    }
+  ]
+}

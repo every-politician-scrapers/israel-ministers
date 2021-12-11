@@ -1,0 +1,181 @@
+{
+  "title": "Nachman Shai",
+  "pageID": 21773924,
+  "categories": [
+    "1946 births",
+    "Harvard University faculty",
+    "Hebrew University of Jerusalem Faculty of Social Sciences alumni",
+    "Army Radio commanders",
+    "Israel Defense Forces spokespersons",
+    "Israeli Jews",
+    "Israeli journalists",
+    "Kadima politicians",
+    "Israeli Labor Party politicians",
+    "Zionist Union politicians",
+    "Living people",
+    "People from Jerusalem",
+    "Bar-Ilan University alumni",
+    "Members of the 18th Knesset (2009–2013)",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 20th Knesset (2015–2019)",
+    "Deputy Speakers of the Knesset",
+    "Government ministers of Israel",
+    "Jerusalem School of Business Administration alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nachman Shai (נחמן שי; born Nachman Shaykevich on 28 November 1946) is an Israeli journalist and politician serving as Israel's Minister of Diaspora Affairs.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "Minister of Diaspora Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Diaspora Affairs"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nachman Shai"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as a member of the Knesset and its Deputy Speaker, as well as the IDF spokesman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "List of Knesset speakers"
+                },
+                {
+                  "text": "IDF spokesman",
+                  "type": "internal",
+                  "page": "IDF Spokesperson's Unit"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli journalist and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1946",
+          "month": "11",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Nachman Shai VOA (cropped).jpg"
+          },
+          "birth_date": {
+            "text": "November 28, 1946"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Mandatory Palestine"
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "suboffice1": {
+            "text": "Minister of Diaspora Affairs",
+            "links": [
+              {
+                "text": "Minister of Diaspora Affairs",
+                "type": "internal",
+                "page": "Ministry of Diaspora Affairs"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2021–"
+          },
+          "suboffice2": {
+            "text": "Kadima",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kadima"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2009–2013"
+          },
+          "suboffice3": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Israeli Labor Party"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2013–2015"
+          },
+          "suboffice4": {
+            "text": "Zionist Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zionist Union"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2015–2019"
+          },
+          "suboffice5": {
+            "text": "Labor Party",
+            "links": [
+              {
+                "text": "Labor Party",
+                "type": "internal",
+                "page": "Israeli Labor Party"
+              }
+            ]
+          },
+          "subterm5": {
+            "text": "2019",
+            "number": 2019
+          },
+          "caption": {
+            "text": "Shai in 2018"
+          }
+        }
+      ]
+    }
+  ]
+}

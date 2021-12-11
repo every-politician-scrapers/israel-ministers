@@ -1,0 +1,173 @@
+{
+  "title": "Tamar Zandberg",
+  "pageID": 38353881,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "21st-century Israeli women politicians",
+    "Ben-Gurion University of the Negev alumni",
+    "Israeli atheists",
+    "Israeli feminists",
+    "Israeli Jews",
+    "Israeli people of Polish-Jewish descent",
+    "Israeli women activists",
+    "Jewish atheists",
+    "Jewish feminists",
+    "Jewish Israeli politicians",
+    "Jewish women politicians",
+    "LGBT rights activists from Israel",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 20th Knesset (2015–2019)",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Meretz leaders",
+    "Ministers of Environment of Israel",
+    "People from Ramat Gan",
+    "Sapir Academic College faculty",
+    "Tel Aviv University alumni",
+    "Women government ministers of Israel",
+    "Women members of the Knesset"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tamar \"Tami\" Zandberg (תָּמָר \"תַּמִּי\" זַנְדְבֵּרְג, born 29 April 1976) is an Israeli politician.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tamar \"Tami\" Zandberg"
+                ]
+              }
+            },
+            {
+              "text": "She currently serves as Minister of Environmental Protection and previously served as a member of the Knesset for Meretz from 2013 to 2021, leading the party between 2018 and 2019.",
+              "links": [
+                {
+                  "text": "Minister of Environmental Protection",
+                  "type": "internal",
+                  "page": "Ministry of Environmental Protection (Israel)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Meretz"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1976",
+          "month": "4",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:TamiZandberg.jpg"
+          },
+          "birth_date": {
+            "text": "April 29, 1976"
+          },
+          "birth_place": {
+            "text": "Ramat Gan, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramat Gan"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "suboffice1": {
+            "text": "Minister of Environmental Protection"
+          },
+          "subterm1": {
+            "text": "2021–"
+          },
+          "suboffice2": {
+            "text": "Meretz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meretz"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2013–2019"
+          },
+          "suboffice3": {
+            "text": "Democratic Union",
+            "links": [
+              {
+                "text": "Democratic Union",
+                "type": "internal",
+                "page": "Democratic Union (Israel)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2019–2020"
+          },
+          "suboffice4": {
+            "text": "Meretz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meretz"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2020–2021"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "title": "Nitzan Horowitz",
+  "pageID": 19819520,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "20th-century journalists",
+    "Gay politicians",
+    "Israeli environmentalists",
+    "Israeli Jews",
+    "Israeli journalists",
+    "Israeli people of Polish-Jewish descent",
+    "Jewish Israeli politicians",
+    "LGBT Jews",
+    "LGBT journalists from Israel",
+    "LGBT members of the Knesset",
+    "LGBT rights activists from Israel",
+    "Members of the 18th Knesset (2009–2013)",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Ministers of Health of Israel",
+    "Meretz leaders",
+    "People from Rishon LeZion",
+    "Tel Aviv University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nitzan Horowitz (נִצָּן הוֹרוֹבִיץ; born 24 February 1965) is an Israeli politician and former journalist serving as Minister of Health since 2021.",
+              "formatting": {
+                "bold": [
+                  "Nitzan Horowitz"
+                ]
+              }
+            },
+            {
+              "text": "He is currently leader of Meretz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Meretz"
+                }
+              ]
+            },
+            {
+              "text": "He previously was the chief U.S. correspondent and commentator for the Israeli News Company, known as Channel 2 News.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israeli News Company"
+                }
+              ]
+            },
+            {
+              "text": "Before rejoining television, he served two full terms in the Knesset (2009-2015) on the Meretz list.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Meretz"
+                }
+              ]
+            },
+            {
+              "text": "In 2013, he ran for mayor of Tel Aviv.",
+              "links": [
+                {
+                  "text": "In 2013",
+                  "type": "internal",
+                  "page": "2013 Tel Aviv mayoral election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tel Aviv"
+                }
+              ]
+            },
+            {
+              "text": "Before being elected to the Knesset, he was the Foreign Affairs commentator and head of the International desk at Hadashot 10, the news division of Channel 10.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hadashot 10"
+                },
+                {
+                  "text": "Channel 10",
+                  "type": "internal",
+                  "page": "Channel 10 (Israel)"
+                }
+              ]
+            },
+            {
+              "text": "In June 2019, he won the Meretz leadership election, and currently serves as leader of the party and as the Minister of Health.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Israel)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1965",
+          "month": "2",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Nitzan Horowitz 2012.jpg"
+          },
+          "birth_date": {
+            "text": "February 24, 1965"
+          },
+          "birth_place": {
+            "text": "Rishon LeZion, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rishon LeZion"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministerial roles"
+          },
+          "suboffice": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Israel)"
+              }
+            ]
+          },
+          "subterm": {
+            "text": "2021–"
+          },
+          "suboffice1": {
+            "text": "Meretz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meretz"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2009–2015"
+          },
+          "suboffice2": {
+            "text": "Democratic Union",
+            "links": [
+              {
+                "text": "Democratic Union",
+                "type": "internal",
+                "page": "Democratic Union (Israel)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2020"
+          },
+          "suboffice3": {
+            "text": "Meretz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meretz"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2020–2021"
+          }
+        }
+      ]
+    }
+  ]
+}

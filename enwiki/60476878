@@ -1,0 +1,157 @@
+{
+  "title": "Hili Tropper",
+  "pageID": 60476878,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "People from Jerusalem",
+    "Israeli social workers",
+    "Israeli educators",
+    "Jewish Israeli politicians",
+    "Open University of Israel alumni",
+    "Lander Institute alumni",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Israel Resilience Party politicians",
+    "Blue and White (political alliance) politicians",
+    "Ministers of Sport of Israel",
+    "Government ministers of Israel",
+    "Ministers of Culture of Israel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yehiel Moshe \"Hili\" Tropper (יְחִיאֵל מֹשֶׁה \"חִילִי\" טְרוֹפֵּר, born 22 April 1978) is an Israeli educator, social worker and politician who currently serves as Minister of Culture and Sports.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "Minister of Culture and Sports",
+                  "type": "internal",
+                  "page": "Ministry of Culture and Sport (Israel)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yehiel Moshe \"Hili\" Tropper"
+                ]
+              }
+            },
+            {
+              "text": "He was previously a member of the Knesset for Blue and White from 2019 to 2020 and again in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "text": "Blue and White",
+                  "type": "internal",
+                  "page": "Blue and White (political alliance)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician",
+          "template": "short description"
+        },
+        {
+          "year": "1978",
+          "month": "4",
+          "day": "22",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "חילי טרופר - חוסן לישראל.jpg"
+          },
+          "birth_date": {
+            "text": "April 22, 1978"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerusalem"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "suboffice1": {
+            "text": "Minister of Culture and Sports",
+            "links": [
+              {
+                "text": "Minister of Culture and Sports",
+                "type": "internal",
+                "page": "Ministry of Culture and Sport (Israel)"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2020–"
+          },
+          "office2": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "suboffice2": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2020"
+          },
+          "suboffice3": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2021",
+            "number": 2021
+          }
+        }
+      ]
+    }
+  ]
+}

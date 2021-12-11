@@ -1,0 +1,193 @@
+{
+  "title": "Meirav Cohen",
+  "pageID": 60560886,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "21st-century Israeli women politicians",
+    "Blue and White (political alliance) politicians",
+    "Government ministers of Israel",
+    "Hebrew University of Jerusalem Faculty of Social Sciences alumni",
+    "Israel Resilience Party politicians",
+    "Israeli civil servants",
+    "Israeli people of Moroccan-Jewish descent",
+    "Jewish Israeli politicians",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Israeli Mizrahi Jews",
+    "Politicians from Jerusalem",
+    "Israeli Sephardi Jews",
+    "Women government ministers of Israel",
+    "Women members of the Knesset",
+    "Jerusalem School of Business Administration alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Meirav Cohen (מֵירַב כֹּהֵן; born 26 August 1983) is an Israeli politician.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Meirav Cohen"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Knesset for Yesh Atid, was an MK for the Blue and White alliance from 2019 to 2021 and served as Minister for Social Equality from May 2020 to January 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                },
+                {
+                  "text": "Blue and White",
+                  "type": "internal",
+                  "page": "Blue and White (political alliance)"
+                },
+                {
+                  "text": "Minister for Social Equality",
+                  "type": "internal",
+                  "page": "Pensioner Affairs Minister of Israel"
+                }
+              ]
+            },
+            {
+              "text": "She took up the post again in June 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1983",
+          "month": "8",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:מירב כהן - חוסן לישראל.jpg"
+          },
+          "caption": {
+            "text": "Cohen in 2019"
+          },
+          "birth_date": {
+            "text": "August 26, 1983"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerusalem"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "suboffice1": {
+            "text": "Minister for Social Equality",
+            "links": [
+              {
+                "text": "Minister for Social Equality",
+                "type": "internal",
+                "page": "Pensioner Affairs Minister of Israel"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2020–2021"
+          },
+          "suboffice2": {
+            "text": "Minister for Social Equality",
+            "links": [
+              {
+                "text": "Minister for Social Equality",
+                "type": "internal",
+                "page": "Pensioner Affairs Minister of Israel"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2021–"
+          },
+          "office3": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "suboffice3": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2019–2021"
+          },
+          "suboffice4": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2021",
+            "number": 2021
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

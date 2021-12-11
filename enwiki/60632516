@@ -1,0 +1,129 @@
+{
+  "title": "Yoav Segalovich",
+  "pageID": 60632516,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Blue and White (political alliance) politicians",
+    "Deputy ministers of Israel",
+    "Israeli police chiefs",
+    "Jewish Israeli politicians",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "People from Tel Aviv",
+    "Tel Aviv University alumni",
+    "Yesh Atid politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yoav Segalovich (יוֹאָב סֶגָלוֹבִיץ, born 23 April 1959) is an Israeli law enforcement officer and politician.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yoav Segalovich"
+                ]
+              }
+            },
+            {
+              "text": "Previously head of Lahav 433 and the Investigations and Intelligence Division, he is currently a member of the Knesset for Yesh Atid.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lahav 433"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli law enforcement officer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "4",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:Yoav Segalovic - Israel Police.jpg"
+          },
+          "birth_date": {
+            "text": "April 23, 1959"
+          },
+          "birth_place": {
+            "text": "Tel Aviv, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv"
+              }
+            ]
+          },
+          "suboffice1": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2019–2020"
+          },
+          "suboffice2": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2020–"
+          }
+        }
+      ]
+    }
+  ]
+}

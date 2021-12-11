@@ -1,0 +1,169 @@
+{
+  "title": "Eli Avidar",
+  "pageID": 28012114,
+  "categories": [
+    "Israeli diplomats",
+    "Living people",
+    "1964 births",
+    "Tel Aviv University alumni",
+    "Hebrew University of Jerusalem alumni",
+    "Israeli people of Greek-Jewish descent",
+    "Israeli people of Egyptian-Jewish descent",
+    "People from Alexandria",
+    "Egyptian emigrants to Israel",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Israeli consuls",
+    "Israeli Sephardi Jews",
+    "Government ministers of Israel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eli Avidar (אֵלִי אֲבִידָר; born 3 December 1964) is an Israeli politician.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eli Avidar"
+                ]
+              }
+            },
+            {
+              "text": "A member of Yisrael Beiteinu, he is currently Minister in the Prime Minister's Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yisrael Beiteinu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister in the Prime Minister's Office"
+                }
+              ]
+            },
+            {
+              "text": "Prior to being elected to the Knesset in 2019 he was the president of the fintech start-up, and Vice President of the World Jewellery Confederation."
+            },
+            {
+              "text": "He is former Managing Director of the Israel Diamond Institute Group of Companies, the Israel Diamond Exchange, as well as used to be a senior diplomat in the Israeli Foreign Ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israel Diamond Institute"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israeli Foreign Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2011",
+          "template": "more footnotes"
+        },
+        {
+          "year": "1964",
+          "month": "12",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eli Avidar"
+          },
+          "image": {
+            "text": "Eli AvidarA.jpg"
+          },
+          "birth_date": {
+            "text": "December 3, 1964"
+          },
+          "birth_place": {
+            "text": "Alexandria, Egypt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexandria"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "subterm1": {
+            "text": "2021–"
+          },
+          "suboffice1": {
+            "text": "Minister in the Prime Minister's Office",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister in the Prime Minister's Office"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "suboffice2": {
+            "text": "Yisrael Beiteinu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yisrael Beiteinu"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://knesset.gov.il/mk/eng/mk_eng.asp?mk_individual_id_t=983",
+          "access-date": "2020-08-06",
+          "website": "knesset.gov.il",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Weinglass",
+          "first": "Simona",
+          "title": "New Yisrael Beytenu MK is an ex-spy handler, diplomat…and Roman empire expert",
+          "url": "https://www.timesofisrael.com/new-yisrael-beytenu-mk-is-an-ex-spy-handler-diplomat-and-roman-empire-expert/",
+          "access-date": "2020-08-06",
+          "website": "www.timesofisrael.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

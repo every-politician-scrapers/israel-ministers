@@ -1,0 +1,252 @@
+{
+  "title": "Yoel Razvozov",
+  "pageID": 11814243,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Blue and White (political alliance) politicians",
+    "Israeli Jews",
+    "Israeli male judoka",
+    "Israeli people of Russian-Jewish descent",
+    "Israeli sports executives and administrators",
+    "Jewish Israeli politicians",
+    "Jewish Israeli sportspeople",
+    "Judoka at the 2004 Summer Olympics",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 20th Knesset (2015–2019)",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Ministers of Tourism of Israel",
+    "Olympic judoka of Israel",
+    "People from Birobidzhan",
+    "People from Kiryat Yam",
+    "Soviet emigrants to Israel",
+    "Soviet Jews",
+    "Yesh Atid politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yoel Razvozov (יוֹאֵל רַזְבוֹזוֹב‎; born 5 July 1980) is an Israeli judoka and politician.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israelis"
+                },
+                {
+                  "text": "judoka",
+                  "type": "internal",
+                  "page": "judoka"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yoel Razvozov"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Minister of Tourism and was previously a member of the Knesset for Yesh Atid and the Blue and White alliance from 2013 to 2021.",
+              "links": [
+                {
+                  "text": "Minister of Tourism",
+                  "type": "internal",
+                  "page": "Ministry of Tourism (Israel)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                },
+                {
+                  "text": "Blue and White",
+                  "type": "internal",
+                  "page": "Blue and White (political alliance)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli judoka and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1980",
+          "month": "7",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Men's judo"
+          ],
+          "template": "medalsport"
+        },
+        {
+          "list": [
+            "🇮🇱"
+          ],
+          "template": "medalcountry"
+        },
+        {
+          "list": [
+            "Competition",
+            "European Championships"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "G",
+            "2005 Debrecen",
+            "Men's team"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "S",
+            "2004 Bucharest",
+            "–73 kg"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "S",
+            "2005 Rotterdam",
+            "–73 kg"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "Competition",
+            "IJF Grand Slam"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "B",
+            "2009 Rio de Janeiro",
+            "–73 kg"
+          ],
+          "template": "medal"
+        },
+        {
+          "name": "no",
+          "template": "medaltabletop"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "יואל רזבוזוב.jpg"
+          },
+          "birth_date": {
+            "text": "July 5, 1980"
+          },
+          "birth_place": {
+            "text": "Birobidzhan, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Birobidzhan"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministerial roles"
+          },
+          "suboffice": {
+            "text": "Minister of Tourism",
+            "links": [
+              {
+                "text": "Minister of Tourism",
+                "type": "internal",
+                "page": "Ministry of Tourism (Israel)"
+              }
+            ]
+          },
+          "subterm": {
+            "text": "2021–"
+          },
+          "suboffice1": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2013–2019"
+          },
+          "suboffice2": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2020"
+          },
+          "suboffice3": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2020–2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

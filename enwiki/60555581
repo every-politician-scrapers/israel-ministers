@@ -1,0 +1,182 @@
+{
+  "title": "Idan Roll",
+  "pageID": 60555581,
+  "categories": [
+    "1984 births",
+    "Living people",
+    "21st-century Israeli lawyers",
+    "21st-century Israeli military personnel",
+    "Blue and White (political alliance) politicians",
+    "Deputy ministers of Israel",
+    "Gay military personnel",
+    "Gay models",
+    "Gay politicians",
+    "Israeli male models",
+    "Israeli officers",
+    "Jewish Israeli politicians",
+    "Jewish male models",
+    "LGBT Jews",
+    "LGBT lawyers",
+    "LGBT members of the Knesset",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Models from Jerusalem",
+    "People of the Military Intelligence Directorate (Israel)",
+    "Politicians from Jerusalem",
+    "Tel Aviv University alumni",
+    "Yesh Atid politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Idan Roll (עִידָן רוֹל, born 27 April 1984) is an Israeli politician, model and lawyer.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "model",
+                  "type": "internal",
+                  "page": "Model (person)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Idan Roll"
+                ]
+              }
+            },
+            {
+              "text": "He is currently Deputy Minister of Foreign Affairs and was a member of the Knesset for Yesh Atid.",
+              "links": [
+                {
+                  "text": "Deputy Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Israel)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1984",
+          "month": "4",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Harel Skaat",
+          "from": "5 March 2021",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "חבר הכנסת עידן רול (cropped).jpg"
+          },
+          "name": {
+            "text": "Idan Roll"
+          },
+          "native_name": {
+            "text": "עידן רול"
+          },
+          "native_name_lang": {
+            "text": "heb"
+          },
+          "birth_date": {
+            "text": "April 27, 1984"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerusalem"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "suboffice1": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2019",
+            "number": 2019
+          },
+          "suboffice2": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2020–2021"
+          },
+          "suboffice3": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2021",
+            "number": 2021
+          },
+          "spouse": {
+            "text": "Harel Skaat (m. 5 March 2021)"
+          }
+        }
+      ]
+    }
+  ]
+}

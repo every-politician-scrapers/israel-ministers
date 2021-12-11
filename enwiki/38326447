@@ -1,0 +1,189 @@
+{
+  "title": "Mickey Levy",
+  "pageID": 38326447,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Alumni of the University of Derby",
+    "Blue and White (political alliance) politicians",
+    "Deputy ministers of Israel",
+    "Israeli businesspeople",
+    "Israeli Jews",
+    "Israeli people of Kurdish-Jewish descent",
+    "Israeli police officers",
+    "Jewish Israeli politicians",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 20th Knesset (2015–2019)",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Politicians from Jerusalem",
+    "Speakers of the Knesset",
+    "University of Haifa alumni",
+    "Yesh Atid politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael \"Mickey\" Levy (מִיכָאֵל \"מִיקִי\" לֵוִי, born 21 June 1951) is an Israeli politician who currently serves as a member of the Knesset for Yesh Atid and Speaker of the Knesset.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael \"Mickey\" Levy"
+                ]
+              }
+            },
+            {
+              "text": "He served as Deputy Minister of Finance between 2013 and 2014."
+            },
+            {
+              "text": "Before entering politics, he was a police officer."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician and former police officer",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the Israeli–American actress",
+            "Micky Levy"
+          ],
+          "template": "for"
+        },
+        {
+          "list": [
+            "Michael Levy"
+          ],
+          "template": "other people"
+        },
+        {
+          "year": "1951",
+          "month": "6",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "מיקי לוי.jpg"
+          },
+          "birth_date": {
+            "text": "June 21, 1951"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerusalem"
+              },
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "suboffice1": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2013–2019"
+          },
+          "suboffice2": {
+            "text": "Blue and White",
+            "links": [
+              {
+                "text": "Blue and White",
+                "type": "internal",
+                "page": "Blue and White (political alliance)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2019–2020"
+          },
+          "suboffice3": {
+            "text": "Yesh Atid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yesh Atid"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2020-present"
+          },
+          "office4": {
+            "text": "Ministerial roles"
+          },
+          "subterm4": {
+            "text": "2013–2014"
+          },
+          "suboffice4": {
+            "text": "Deputy Minister of Finance",
+            "links": [
+              {
+                "text": "Deputy Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Israel)"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Other roles"
+          },
+          "suboffice5": {
+            "text": "Speaker of the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Knesset"
+              }
+            ]
+          },
+          "subterm5": {
+            "text": "2021–present"
+          }
+        }
+      ]
+    }
+  ]
+}

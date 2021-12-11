@@ -1,0 +1,355 @@
+{
+  "title": "Gideon Sa'ar",
+  "pageID": 485357,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "20th-century Israeli lawyers",
+    "21st-century Israeli lawyers",
+    "Commanders of the Order of Merit of the Italian Republic",
+    "Deputy Speakers of the Knesset",
+    "Israeli Ashkenazi Jews",
+    "Israeli Mizrahi Jews",
+    "Israeli people of Argentine-Jewish descent",
+    "Israeli people of Mountain Jewish descent",
+    "Jewish Israeli politicians",
+    "Likud politicians",
+    "Members of the 16th Knesset (2003–2006)",
+    "Members of the 17th Knesset (2006–2009)",
+    "Members of the 18th Knesset (2009–2013)",
+    "Members of the 19th Knesset (2013–2015)",
+    "Members of the 21st Knesset (2019)",
+    "Members of the 22nd Knesset (2019–2020)",
+    "Members of the 23rd Knesset (2020–2021)",
+    "Members of the 24th Knesset (2021–present)",
+    "Ministers of Education of Israel",
+    "Ministers of Internal Affairs of Israel",
+    "Ministers of Justice of Israel",
+    "New Hope (Israel) politicians",
+    "Ono Academic College faculty",
+    "Order of Civil Merit members",
+    "Politicians from Tel Aviv",
+    "Tel Aviv University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gideon Moshe Sa'ar (גִּדְעוֹן סַעַר; born 9 December 1966) is an Israeli politician who has served as the Deputy Prime Minister and Minister of Justice since June 2021.",
+              "links": [
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy of the Prime Minister of Israel"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Israel)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gideon Moshe Sa'ar"
+                ]
+              }
+            },
+            {
+              "text": "Sa'ar previously served as a member of the Knesset for the Likud between 2003 and 2014, and was the Education Minister and afterwards the Minister of the Interior, from 2009 to 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Likud"
+                },
+                {
+                  "text": "Education Minister",
+                  "type": "internal",
+                  "page": "Ministry of Education (Israel)"
+                },
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Internal Affairs Minister of Israel"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 Sa'ar returned to the Knesset and unsuccessfully ran against longtime leader Benjamin Netanyahu for the leadership of the Likud; he left the Knesset the following year after establishing a new party called New Hope.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Benjamin Netanyahu"
+                },
+                {
+                  "text": "New Hope",
+                  "type": "internal",
+                  "page": "New Hope (Israel)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "12",
+          "day": "09",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Likud (before 2020)",
+            "New Hope (2020–present)"
+          ],
+          "template": "ubl"
+        },
+        {
+          "spouse": "Shelly Sa'ar",
+          "from": "1990",
+          "to": "2012",
+          "end": "div",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Geula Even",
+          "from": "16 May 2013",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "Journalist",
+            "lawyer",
+            "politician"
+          ],
+          "template": "cslist"
+        },
+        {
+          "list": [
+            "Soldier",
+            "Non-commissioned intelligence officer"
+          ],
+          "template": "cslist"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gideon Sa'ar"
+          },
+          "native_name": {
+            "text": "גדעון סער"
+          },
+          "native_name_lang": {
+            "text": "he"
+          },
+          "image": {
+            "text": "Gideonsaar.jpg"
+          },
+          "office1": {
+            "text": "Ministerial roles"
+          },
+          "subterm1": {
+            "text": "2009–2013"
+          },
+          "suboffice1": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Israel)"
+              }
+            ]
+          },
+          "subterm2": {
+            "text": "2013–2014"
+          },
+          "suboffice2": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of Interior (Israel)"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2021–"
+          },
+          "suboffice3": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Israel)"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2021–"
+          },
+          "suboffice4": {
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy leaders of Israel",
+                "anchor": "Deputy Prime Minister"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "subterm5": {
+            "text": "2003–2014"
+          },
+          "suboffice5": {
+            "text": "Likud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Likud"
+              }
+            ]
+          },
+          "subterm6": {
+            "text": "2019–2020"
+          },
+          "suboffice6": {
+            "text": "Likud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Likud"
+              }
+            ]
+          },
+          "subterm7": {
+            "text": "2021–"
+          },
+          "suboffice7": {
+            "text": "New Hope",
+            "links": [
+              {
+                "text": "New Hope",
+                "type": "internal",
+                "page": "New Hope (Israel)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Gideon Moshe Zarechansky"
+          },
+          "birth_date": {
+            "text": "December 9, 1966"
+          },
+          "birth_place": {
+            "text": "Tel Aviv, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv"
+              }
+            ]
+          },
+          "party": {
+            "text": "Likud (before 2020)\n\nNew Hope (2020–present)"
+          },
+          "spouse": {
+            "text": "Shelly Sa'ar (m. 1990-2012)\n\nGeula Even (m. 16 May 2013)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Tel Aviv"
+          },
+          "alma_mater": {
+            "text": "Tel Aviv University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv University"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Order of Merit of the Italian Republic (2004 – Officer; 2011 – Commander) \n\nOrder of Civil Merit (2012)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Merit of the Italian Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Civil Merit"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Israel Defense Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Israel Defense Forces"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Golani Brigade",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Golani Brigade"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gideonsaar.com/about/",
+          "title": "About",
+          "website": "gideonsaar.com",
+          "access-date": "19 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
