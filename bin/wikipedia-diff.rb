@@ -5,9 +5,6 @@ require 'every_politician_scraper/comparison'
 
 # Only compare IDs, not names, as those differ between WP/WD
 class Comparison < EveryPoliticianScraper::Comparison
-  def columns
-    %i[pid wdid start]
-  end
 end
 
 diff = Comparison.new('data/wikidata-enwiki.csv', 'data/wikipedia.csv').diff
