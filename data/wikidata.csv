@@ -1,1 +1,17 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q1362317,Yuval Steinitz,Yuval Steinitz,male,1958-04-10,11,,,Q15732343,Minister of Energy,2015-05-14,Q1362317-faab56c4-4c04-6887-8073-2d4e27eeb0fd
+Q1396120,Yair Lapid,Yair Lapid,male,1963-11-05,11,,,Q15710855,Minister of Foreign Affairs,2021-06-13,Q1396120-e962e0c0-4699-3e01-e639-2b9d096a998a
+Q19634043,Yifat Shasha-Biton,Yifat Shasha-Biton,female,1973-05-23,11,,,Q20021264,Minister of Construction,2019-01-09,Q19634043-c0475a42-4833-cf66-eafb-7e1f02c8c35b
+Q21794010,Amir Ohana,Amir Ohana,male,1976-03-15,11,,,Q742063,Justice Minister of Israel,2019-06-05,Q21794010-51314261-4182-e350-4b32-4624b5a1d759
+Q2375726,Uri Ariel,Uri Ariel,male,1952-12-22,11,,,Q15731462,Minister of Agriculture and Rural Development,2015-05-14,Q2375726-d23c1950-4a6a-13c4-1dd8-5e6e64989519
+Q2468984,Yoel Razvozov,Yoel Razvozov,male,1980-07-05,11,,,Q15722454,Minister of Tourism,2021-06-13,Q2468984-16f7348a-45fc-020e-cc3a-efaeb10523f3
+Q2663804,Gilad Erdan,Gilad Erdan,male,1970-09-30,11,,,Q2564757,Strategic Affairs Minister of Israel,2015-05-25,Q2663804-0cc5acab-45f0-1ea9-8b01-99802010b3db
+Q2663804,Gilad Erdan,Gilad Erdan,male,1970-09-30,11,,,Q12409709,Information Minister of Israel,2015-05-25,Q2663804-ecc6a379-4d05-b769-8150-d8f27aba727d
+Q2663804,Gilad Erdan,Gilad Erdan,male,1970-09-30,11,,,Q20021305,Minister of Public Security of Israel,2015-05-25,Q2663804-ff258924-4b4b-af15-f3e4-a8f6e0beb380
+Q39318,Naftali Bennett,Naftali Bennett,male,1972-03-25,11,,,Q208487,Prime Minister of Israel,2021-06-13,Q39318-d10be0a9-4c7b-506a-870c-c624e814a620
+Q445611,Gila Gamliel,Gila Gamliel,female,1974-02-24,11,,,Q19803218,Social Equality Minister of Israel,2015-05-14,Q445611-d8c82b70-4ac4-702e-395b-9f68b1d3cffc
+Q5360165,Eli Avidar,Eli Avidar,male,1964-12-03,11,,,Q15733044,Minister without portfolio,2021-08-05,Q5360165-655e6e8f-4561-7e18-26d8-65630b0476d7
+Q557436,Benny Gantz,Benny Gantz,male,1959-06-09,11,,,Q13222899,Minister of Defence,2020-05-17,Q557436-e6e9f110-444b-753a-8419-613f1cf83d35
+Q58311,Avigdor Lieberman,Avigdor Lieberman,male,1958-07-05,11,,,Q15722817,Minister of Finance,2021-06-13,Q58311-7f108269-45a4-3041-f8c1-1405d003ddf8
+Q723506,Yoav Galant,Yoav Galant,male,1958-11-08,11,,,Q88839002,Minister of Aliyah and Integration,2019-01-09,Q723506-e39e8edf-4b30-2885-68e2-4f8b5900be1b
+Q94342502,Ya'akov Avitan,Ya'akov Avitan,male,2000-01-01,7,,,Q20021277,Minister of Religious Services,2020-05-17,Q94342502-ee6ad64b-43dc-e4ff-be36-36acf6c416c5
