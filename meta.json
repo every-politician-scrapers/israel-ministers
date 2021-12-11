@@ -1,20 +1,21 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Israel",
+      "id": "Q801"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q106306784",
+      "start": "2021-07-13",
+      "parent": "Q2578249"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://m.knesset.gov.il/en/mk/government/pages/governments.aspx?govId=36",
+        "json":  "https://www.knesset.gov.il/WebSiteApi/knessetapi/goverment?GovId=36&Lang=EN",
+        "title": "Thirty-Sixth Government",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/israel-ministers"
 }
