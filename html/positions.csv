@@ -1,0 +1,59 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q327948,President of Israel,Q801,Q801,,,1949-02-16,,,,President of Israel
+Q208487,Prime Minister of Israel,Q801,Q801,,Q16938967,1948-05-14,,,,Prime Minister of Israel
+Q95965310,Alternate Prime Minister of Israel,Q801,,,,,,,,Alternate Prime Minister of Israel
+Q7040859,Deputy Prime Minister of Israel,Q801,Q801,,Q13888823,1952,,,,
+Q15731462,Minister of Agriculture and Rural Development,Q801,Q801,,,,,,,
+Q88839002,Minister of Aliyah and Integration,Q801,Q801,,,,,,,
+Q20021270,Minister of Communications,Q801,Q801,,,,,,,
+Q110061158,Minister of Community Affairs,Q801,Q801,,,,,,,
+Q110061184,Minister for Community Strengthening and Advancement,Q801,Q801,,,,,,,
+Q20021264,Minister of Construction,Q801,Q801,,,,,,,
+Q20021272,Culture and Sport Minister,Q801,Q801,,,2009,,,,
+Q13222899,Minister of Defence,Q801,Q801,,,1948-05-14,,,,
+Q110061168,Minister for the Development of the Negev and Galilee,,Q801,,,,,,,
+Q2566297,Minister of Diaspora Affairs,Q801,Q801,,,1967,,,,Ministry of Diaspora Affairs
+Q23902466,Minister of Economics and Planning,Q801,Q801,,,,,,,
+Q20021267,Minister of Economy,Q801,Q801,,,1948,,,,
+Q20021291,Education Minister of Israel,Q801,Q801,,,,,,,
+Q15732343,Minister of Energy,Q801,Q801,,,,,,,
+Q20021283,Minister of Environmental Protection,Q801,Q801,,,1988,,,,
+Q15722817,Minister of Finance,Q801,Q801,,,1948-05-14,,,,
+Q15710855,Minister of Foreign Affairs,Q801,Q801,,,1948-05-15,,,,
+Q15722942,Minister of Health,Q801,Q801,,,1948,,,,
+Q55406216,Home Front Defense Minister,Q801,,,,,,,,
+Q20021262,Minister of Immigrant Absorption,Q801,Q801,,,,,,,
+Q57279054,Minister of Immigration and Absorption,Q801,Q801,,,,,,,
+Q12409709,Information Minister of Israel,Q801,Q801,,,1974,1975,,,Information Minister of Israel
+Q2082321,Minister of Intelligence,Q801,Q801,,,2009,,,,Ministry of Intelligence (Israel)
+Q2433405,Minister of the Interior,Q801,Q801,,,1948-05-14,,,,Internal Affairs Minister of Israel
+Q110062214,Minister of Jerusalem and Heritage,,Q801,,,,,,,
+Q742063,Justice Minister of Israel,Q801,Q801,,,1948-05-14,,,,
+Q890855,Labor Minister of Israel,Q801,Q801,,,1948,1977,,,Labor Minister of Israel
+Q110061159,Minister for National Digital Matters,Q801,Q801,,,,,,,
+Q20021305,Minister of Public Security of Israel,Q801,Q801,,,1948,,,,
+Q2082286,Regional Development Minister of Israel,Q801,Q801,,,1999,,,,Regional Cooperation Minister of Israel
+Q20021277,Minister of Religious Services,Q801,Q801,,,,,,,
+Q57279113,"Minister of Science, Culture and Sport",Q801,Q801,,,,,,,
+Q20021301,"Science, Technology and Space Minister",Q801,Q801,,,1982,,,,
+Q19803218,Social Equality Minister of Israel,Q801,Q801,,,2006,,,,
+Q2564757,Strategic Affairs Minister of Israel,Q801,Q801,,,2006,,,,
+Q15722454,Minister of Tourism,Q801,Q801,,,,,,,
+Q15731446,Minister of Transport and Road Safety,Q801,Q801,,,1948,,,,
+Q54291045,Minister of Welfare and Social Services,Q801,Q801,,,,,,,
+Q15733044,Minister without portfolio,Q801,Q801,,,,,,,
+Q110062245,Liaison Between the Knesset and Government,Q801,Q801,,,,,,,
+Q15728439,Deputy Minister of Defense,Q801,Q801,,,,,,,
+Q110062375,Deputy Minister of the Economy and Industry,Q801,Q801,,,,,,,
+Q15735049,Deputy Minister of Foreign Affairs,Q801,Q801,,,,,,,
+Q15732368,Deputy Minister of Health,Q801,Q801,,,,,,,
+Q110062315,Deputy Minister of Public Security,Q801,Q801,,,,,,,
+Q110062385,Deputy Minister in the Prime Minister's Office,Q801,Q801,,,,,,,
+Q110062463,Minister in the Ministry of Finance,Q801,Q801,,,,,,,
+Q2668563,Speaker of the Knesset,Q801,Q801,,,1949,,,,List of Knesset speakers
+Q12409303,Knesset CEO,Q801,,,,2006-06,,,,
+Q56757160,National Security Advisor,Q801,,,,1999,,,,
+Q2915536,Attorney General of Israel,Q801,Q801,,,1948,,,,Attorney General of Israel
+Q16341029,governor of the Bank of Israel,Q801,Q801,,,1954,,,,
+Q545206,Chief of the General Staff (Israel),Q801,Q801,,,1947,,,,Chief of the General Staff (Israel)
+Q2276266,Mayor of Jerusalem,Q801,Q1218,,,1867,,,,Mayor of Jerusalem
