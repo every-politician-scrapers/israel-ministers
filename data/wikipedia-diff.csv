@@ -1,4 +1,5 @@
 @@,wdid,name,pid,position
+->,Q966349,Gideon Sa'ar,Q742063->Q13888823,Justice Minister of Israel->Deputy Prime Minister
 ->,Q8054214,Yoaz Hendel,Q20021270->Q2077979,Minister of Communications
 ->,Q7030786,Meirav Cohen,Q19803218->Q2082304,Social Equality Minister of Israel->Minister for Social Equality
 ->,Q6940081,Yechiel Tropper->Hili Tropper,Q20021272->Q2081328,Culture and Sport Minister->Minister of Culture and Sport
@@ -21,8 +22,6 @@
 ->,Q1572575,Hamad Amar,Q110062463->NULL,Minister in the Ministry of Finance->Minister in the Finance Ministry
 ->,Q1396120,Yair Lapid,Q95965310->NULL,Alternate Prime Minister of Israel
 ---,Q99932351,Margaret Clarke Kwesie,Q15732368,Deputy Minister of Health
----,Q966349,Gideon Sa'ar,Q7040859,Deputy Prime Minister of Israel
----,Q966349,Gideon Sa'ar,Q742063,Justice Minister of Israel
 ---,Q6965078,Alon Schuster,Q15728439,Deputy Minister of Defense
 ---,Q6832388,Yoav Segalovich,Q110062315,Deputy Minister of Public Security
 ---,Q59519064,Idan Roll,Q15735049,Deputy Minister of Foreign Affairs
@@ -30,7 +29,6 @@
 ---,Q557436,Benny Gantz,Q13222899,Minister of Defence
 ---,Q557436,Benny Gantz,Q7040859,Deputy Prime Minister of Israel
 ---,Q39318,Naftali Bennett,Q110061158,Minister of Community Affairs
----,Q39318,Naftali Bennett,Q110061159,Minister for National Digital Matters
 ---,Q3663042,Karin Elharar,Q110061148,Minister of Water Resources
 ---,Q3663042,Karin Elharar,Q15732343,Minister of Energy
 ---,Q3593286,Omer Bar-Lev,Q20021305,Minister of Public Security of Israel
@@ -42,7 +40,6 @@
 ---,Q1396120,Yair Lapid,Q15710855,Minister of Foreign Affairs
 ---,Q1396120,Yair Lapid,Q2564757,Strategic Affairs Minister of Israel
 ---,Q106226059,Abir Kara,Q110062385,Deputy Minister in the Prime Minister's Office
-+++,Q966349,Gideon Sa'ar,Q13888823,Deputy Prime Minister
 +++,Q557436,Benny Gantz,Q13888823,Deputy Prime Minister
 +++,Q3663042,Karine Elharrar,Q4294949,"Minister of National Infrastructure, Energy, and Water"
 +++,Q3593286,Omer Bar-Lev,Q2565106,Minister of Public Security
