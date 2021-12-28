@@ -67,7 +67,7 @@
             "text": "Amir Yaron, December 2018 (KBG GPO070) (cropped).JPG"
           },
           "office": {
-            "text": "Governor of the Bank of Israel",
+            "text": "10th Governor of the Bank of Israel",
             "links": [
               {
                 "type": "internal",
@@ -76,21 +76,24 @@
             ]
           },
           "primeminister": {
-            "text": "Benjamin Netanyahu",
+            "text": "Benjamin Netanyahu Naftali Bennett",
             "links": [
               {
                 "type": "internal",
                 "page": "Benjamin Netanyahu"
+              },
+              {
+                "type": "internal",
+                "page": "Naftali Bennett"
               }
             ]
           },
+          "term_start": {
+            "text": "December 24, 2018"
+          },
           "predecessor": {
-            "text": "Nadine Baudot-Trajtenberg (acting)\nKarnit Flug",
+            "text": "Karnit Flug",
             "links": [
-              {
-                "type": "internal",
-                "page": "Nadine Baudot-Trajtenberg"
-              },
               {
                 "type": "internal",
                 "page": "Karnit Flug"
