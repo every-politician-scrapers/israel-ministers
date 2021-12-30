@@ -269,6 +269,12 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Natalie Bennett"
+          ],
+          "template": "distinguish"
+        },
+        {
           "small": "yes",
           "template": "pp-30-500"
         },
@@ -336,7 +342,7 @@
             "text": "Prime Minister of Israel"
           },
           "president": {
-            "text": "Reuven Rivlin Isaac Herzog",
+            "text": "Reuven Rivlin\n\nIsaac Herzog",
             "links": [
               {
                 "type": "internal",
