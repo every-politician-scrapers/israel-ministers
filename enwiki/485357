@@ -339,16 +339,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://gideonsaar.com/about/",
-          "title": "About",
-          "website": "gideonsaar.com",
-          "access-date": "19 December 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

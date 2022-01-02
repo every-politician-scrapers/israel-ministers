@@ -265,37 +265,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.haaretz.com/israel-news/.premium-israel-s-gatekeepers-bravely-stood-up-to-netanyahu-but-the-real-battle-lies-ahead-1.8161649",
-          "title": "Israel's Gatekeepers Bravely Stood Up to Netanyahu. But the Real Battle Lies Ahead",
-          "date": "2019-11-21",
-          "work": "Haaretz",
-          "access-date": "2019-11-21",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.haaretz.co.il/news/politics/1.2007388",
-          "title": "הפצ\"ר לשעבר אביחי מנדלבליט מונה למזכיר הממשלה",
-          "trans-title": "Former Military Advocate General Avihai Mandelblit Appointed Government Secretary",
-          "author1": "Lis, Yehonatan",
-          "author2": "Cohen, Gili",
-          "work": "Haaretz",
-          "date": "29 April 2013",
-          "access-date": "13 March 2018",
-          "language": "he",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
