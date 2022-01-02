@@ -77,6 +77,10 @@
       ],
       "templates": [
         {
+          "description": "Israeli politician, model and lawyer",
+          "template": "short description"
+        },
+        {
           "date": "April 2021",
           "template": "use dmy dates"
         },
