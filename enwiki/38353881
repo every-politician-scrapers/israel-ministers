@@ -39,13 +39,6 @@
           "sentences": [
             {
               "text": "Tamar \"Tami\" Zandberg (תָּמָר \"תַּמִּי\" זַנְדְבֵּרְג, born 29 April 1976) is an Israeli politician.",
-              "links": [
-                {
-                  "text": "Israeli",
-                  "type": "internal",
-                  "page": "Israel"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Tamar \"Tami\" Zandberg"

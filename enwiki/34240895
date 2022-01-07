@@ -28,13 +28,6 @@
           "sentences": [
             {
               "text": "Yoaz Hendel (יוּעַז הֶנְדֶּל; born 22 May 1975) is an Israeli politician, serving as the Minister of Communications since 2021.",
-              "links": [
-                {
-                  "text": "Israeli",
-                  "type": "internal",
-                  "page": "Israel"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Yoaz Hendel"

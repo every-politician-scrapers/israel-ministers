@@ -25,13 +25,6 @@
           "sentences": [
             {
               "text": "Yoav Segalovich (יוֹאָב סֶגָלוֹבִיץ, born 23 April 1959) is an Israeli law enforcement officer and politician.",
-              "links": [
-                {
-                  "text": "Israeli",
-                  "type": "internal",
-                  "page": "Israel"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Yoav Segalovich"
