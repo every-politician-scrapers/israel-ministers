@@ -32,13 +32,6 @@
           "sentences": [
             {
               "text": "Meirav Cohen (מֵירַב כֹּהֵן; born 26 August 1983) is an Israeli politician.",
-              "links": [
-                {
-                  "text": "Israeli",
-                  "type": "internal",
-                  "page": "Israel"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Meirav Cohen"
