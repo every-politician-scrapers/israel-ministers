@@ -172,7 +172,8 @@
         },
         {
           "list": [
-            "Chaim Herzog (father)"
+            "Chaim Herzog (father)",
+            "Aura Ambache (mother)"
           ],
           "template": "unbulleted list"
         },
@@ -471,7 +472,7 @@
             "number": 3
           },
           "relatives": {
-            "text": "Chaim Herzog (father)"
+            "text": "Chaim Herzog (father)\n\nAura Ambache (mother)"
           },
           "party": {
             "text": "Labor Party",
