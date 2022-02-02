@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Avichai Mandelblit (אביחי מנדלבליט; born 29 July 1963) is an Israeli jurist who serves as the Attorney General of Israel.",
+              "text": "Avichai Mandelblit (אביחי מנדלבליט; born 29 July 1963) is an Israeli jurist who served as the Attorney General of Israel from 2016 to 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -128,6 +128,9 @@
           "term_start": {
             "text": "1 February 2016"
           },
+          "term_end": {
+            "text": "1 February 2022"
+          },
           "predecessor": {
             "text": "Yehuda Weinstein",
             "links": [
@@ -136,6 +139,9 @@
                 "page": "Yehuda Weinstein"
               }
             ]
+          },
+          "successor": {
+            "text": "Amit Aisman (acting)"
           },
           "office2": {
             "text": "17th Cabinet Secretary",
