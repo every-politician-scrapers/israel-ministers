@@ -1,0 +1,120 @@
+{
+  "title": "Gali Baharav-Miara",
+  "pageID": 70010685,
+  "categories": [
+    "Israeli lawyers",
+    "Tel Aviv University alumni",
+    "Attorneys General of Israel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gali Bahrav-Miara (Hebrew: גלי בהרב-מיארה, born 1959 ) is an Israeli lawyer who serves as the current Attorney General of Israel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hebrew"
+                },
+                {
+                  "text": "Israeli",
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Israel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gali Bahrav-Miara"
+                ]
+              }
+            },
+            {
+              "text": "Prior to that, she served as the Tel Aviv District Attorney for civil affairs, and as a consultant to the law firm Tadmor & Co. She is the first female Attorney General of Israel."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Gali Baharav-Miara.jpg"
+          },
+          "office": {
+            "text": "15th Attorney General of Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attorney General of Israel"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Naftali Bennett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naftali Bennett"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 February 2022"
+          },
+          "predecessor": {
+            "text": "Avichai Mandelblit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Avichai Mandelblit"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Tel Aviv District Attorney for civil affairs"
+          },
+          "term_start2": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "birth_date": {
+            "text": "1959",
+            "number": 1959
+          },
+          "birth_place": {
+            "text": "Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Israel"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Zion Miara"
+          },
+          "education": {
+            "text": "Tel Aviv University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
