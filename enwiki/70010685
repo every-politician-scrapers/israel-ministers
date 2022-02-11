@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "Gali Bahrav-Miara (Hebrew: גלי בהרב-מיארה, born 1959 ) is an Israeli lawyer who serves as the current Attorney General of Israel.",
+              "text": "Gali Baharav-Miara (Hebrew: גלי בהרב-מיארה, born 18 september 1959 ) is an Israeli lawyer who serves as the current Attorney General of Israel.",
               "links": [
                 {
                   "type": "internal",
@@ -32,7 +32,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Gali Bahrav-Miara"
+                  "Gali Baharav-Miara"
                 ]
               }
             },
@@ -40,6 +40,19 @@
               "text": "Prior to that, she served as the Tel Aviv District Attorney for civil affairs, and as a consultant to the law firm Tadmor & Co. She is the first female Attorney General of Israel."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli lawyer and State Attorney General",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "09",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -89,8 +102,7 @@
             "number": 2015
           },
           "birth_date": {
-            "text": "1959",
-            "number": 1959
+            "text": "September 18, 1959"
           },
           "birth_place": {
             "text": "Israel",
