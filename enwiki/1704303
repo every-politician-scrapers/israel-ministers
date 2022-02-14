@@ -40,7 +40,7 @@
         {
           "sentences": [
             {
-              "text": "Avigdor Lieberman (אֲבִיגְדוֹר לִיבֶּרְמָן,  ; Эве́т Льво́вич Ли́берман, ; born 5 June 1958) is a Soviet-born Israeli politician serving as Minister of Finance since 2021, having previously served twice as Deputy Prime Minister of Israel from 2006 to 2008 and 2009 to 2012.",
+              "text": "Avigdor Lieberman (אֲבִיגְדוֹר לִיבֶּרְמָן, Transliterated: ʾĂvīɣðôr Lībermān,  ; Эве́т Льво́вич Ли́берман, Transliterated: Ėvet Lvovič Liberman, ; born 5 June 1958) is a Soviet-born Israeli politician serving as Minister of Finance since 2021, having previously served twice as Deputy Prime Minister of Israel from 2006 to 2008 and 2009 to 2012.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -208,6 +208,11 @@
           "template": "birth date and age"
         },
         {
+          "lang": "he",
+          "text": "ʾĂvīɣðôr Lībermān",
+          "template": "transl"
+        },
+        {
           "transcription": "aviɡˈdor ˈliberman",
           "template": "ipa"
         },
@@ -215,6 +220,14 @@
           "file": "Avigdor lieberman.ogg",
           "text": "(audio)",
           "template": "audio"
+        },
+        {
+          "template": "softsign"
+        },
+        {
+          "lang": "ru",
+          "text": "Ėvet Lvovič Liberman",
+          "template": "transl"
         },
         {
           "transcription": "ɪˈvɛt lʲˈvovɪt͡ɕ ˈlʲɪbʲɪrmɐn",

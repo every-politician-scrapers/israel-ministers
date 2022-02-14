@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Merav Michaeli (מֵרַב מִיכָאֵלִי; born 24 November 1966) is an Israeli politician, journalist, TV anchor, radio broadcaster, feminist, and activist.",
+              "text": "Merav Michaeli (מֵרַב מִיכָאֵלִי; Transliterated: Mērav Mīxāʾēlī; born 24 November 1966) is an Israeli politician, journalist, TV anchor, radio broadcaster, feminist, and activist.",
               "links": [
                 {
                   "type": "internal",
@@ -83,6 +83,11 @@
           "day": "24",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "lang": "he",
+          "text": "Mērav Mīxāʾēlī",
+          "template": "transl"
         }
       ],
       "infoboxes": [

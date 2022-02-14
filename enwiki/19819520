@@ -33,7 +33,7 @@
         {
           "sentences": [
             {
-              "text": "Nitzan Horowitz (נִצָּן הוֹרוֹבִיץ; born 24 February 1965) is an Israeli politician and former journalist serving as Minister of Health since 2021.",
+              "text": "Nitzan Horowitz (נִצָּן הוֹרוֹבִיץ; Transliterated: Niṣṣān Hôrôvīṣ; born 24 February 1965) is an Israeli politician and former journalist serving as Minister of Health since 2021.",
               "formatting": {
                 "bold": [
                   "Nitzan Horowitz"
@@ -127,6 +127,11 @@
           "day": "24",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "lang": "he",
+          "text": "Niṣṣān Hôrôvīṣ",
+          "template": "transl"
         }
       ],
       "infoboxes": [

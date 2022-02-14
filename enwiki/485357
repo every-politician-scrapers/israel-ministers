@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Gideon Moshe Sa'ar (גִּדְעוֹן סַעַר; born 9 December 1966) is an Israeli politician who has served as the Deputy Prime Minister and Minister of Justice since June 2021.",
+              "text": "Gideon Moshe Sa'ar (גִּדְעוֹן סַעַר, Transliterated: Giðʿôn Saʿar; born 9 December 1966) is an Israeli politician who has served as the Deputy Prime Minister and Minister of Justice since June 2021.",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -147,6 +147,11 @@
             "Non-commissioned intelligence officer"
           ],
           "template": "cslist"
+        },
+        {
+          "lang": "he",
+          "text": "Giðʿôn Saʿar",
+          "template": "transl"
         }
       ],
       "infoboxes": [

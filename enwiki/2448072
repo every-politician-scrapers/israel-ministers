@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "Yair Lapid (יָאִיר לַפִּיד, ; born 5 November 1963) is an Israeli politician and former journalist serving as the Alternate Prime Minister of Israel and Minister of Foreign Affairs since 2021.",
+              "text": "Yair Lapid (יָאִיר לַפִּיד, Transliterated: Yāʾīr Lapīð, ; born 5 November 1963) is an Israeli politician and former journalist serving as the Alternate Prime Minister of Israel and Minister of Foreign Affairs since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -225,6 +225,11 @@
             "template": "start date",
             "text": "June 13, 2021"
           }
+        },
+        {
+          "lang": "he",
+          "text": "Yāʾīr Lapīð",
+          "template": "transl"
         },
         {
           "transcription": "jaˈʔiʁ laˈpid",

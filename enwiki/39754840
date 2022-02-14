@@ -53,7 +53,7 @@
         {
           "sentences": [
             {
-              "text": "Naftali Bennett (נַפְתָּלִי בֶּנֶט, ; born 25 March 1972) is an Israeli politician serving as the 13th and current prime minister of Israel since 13 June 2021.",
+              "text": "Naftali Bennett (נַפְתָּלִי בֶּנֶט, Transliterated: Naftālī Beneṭ, ; born 25 March 1972) is an Israeli politician serving as the 13th and current prime minister of Israel since 13 June 2021.",
               "links": [
                 {
                   "text": "prime minister of Israel",
@@ -315,6 +315,11 @@
         },
         {
           "template": "official url"
+        },
+        {
+          "lang": "he",
+          "text": "Naftālī Beneṭ",
+          "template": "transl"
         },
         {
           "transcription": "naftaˈli ˈbenet",
