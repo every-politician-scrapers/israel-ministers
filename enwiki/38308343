@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Issawi Frej (عيساوي فريج, עִיסָאוּוִי פְרֵיג'; born 14 December 1963) is an Arab-Israeli politician who currently serves as a minister and was a member of the Knesset for Meretz in 2021 and was also an MK for the party between 2013 and 2019.",
+              "text": "Issawi Frej (عيساوي فريج, Transliterated: ʿĪssāwī Frīj; עִיסָאוּוִי פְרֵיג', Transliterated: ʿĪsāūwī Frêj; born 14 December 1963) is an Arab-Israeli politician who currently serves as a minister and was a member of the Knesset for Meretz in 2021 and was also an MK for the party between 2013 and 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -74,6 +74,16 @@
           "day": "14",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "lang": "ar",
+          "text": "ʿĪssāwī Frīj",
+          "template": "transl"
+        },
+        {
+          "lang": "he",
+          "text": "ʿĪsāūwī Frêj",
+          "template": "transl"
         }
       ],
       "infoboxes": [
