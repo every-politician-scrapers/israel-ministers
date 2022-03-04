@@ -35,8 +35,12 @@
               }
             },
             {
-              "text": "A member of Yisrael Beiteinu, he is currently Minister in the Prime Minister's Office.",
+              "text": "He is currently a member of the Knesset for Yisrael Beiteinu, and served as Minister in the Prime Minister's Office from 2021 to 2022.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
                 {
                   "type": "internal",
                   "page": "Yisrael Beiteinu"
@@ -103,7 +107,7 @@
             "text": "Ministerial roles"
           },
           "subterm1": {
-            "text": "2021–"
+            "text": "2021–2022"
           },
           "suboffice1": {
             "text": "Minister in the Prime Minister's Office",
@@ -134,6 +138,18 @@
           },
           "subterm2": {
             "text": "2019–2021"
+          },
+          "suboffice3": {
+            "text": "Yisrael Beiteinu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yisrael Beiteinu"
+              }
+            ]
+          },
+          "subterm3": {
+            "text": "2022–"
           }
         }
       ]
