@@ -5,7 +5,6 @@
 ->,Q6940081,Yechiel Tropper->Hili Tropper,Q20021272->Q2081328,Culture and Sport Minister->Minister of Culture and Sport
 ->,Q60951122,Matan Kahana,Q20021277->Q2081359,Minister of Religious Services->Minister of Religious Affairs
 ->,Q58311,Avigdor Lieberman,Q15722817->Q1707870,Minister of Finance
-->,Q5360165,Eli Avidar,Q15733044->Q6866020,Minister without portfolio->Minister in the Prime Minister's Office
 ->,Q39318,Naftali Bennett,Q208487,Prime Minister of Israel->Prime Minister
 ->,Q391262,Merav Michaeli,Q15731446->Q2661479,Minister of Transport and Road Safety->Minister of Transportation
 ->,Q3818052,Tamar Zandberg,Q20021283->Q2907759,Minister of Environmental Protection
@@ -27,6 +26,7 @@
 ---,Q569975,Yair Golan,Q110062375,Deputy Minister of the Economy and Industry
 ---,Q557436,Benny Gantz,Q13222899,Minister of Defence
 ---,Q557436,Benny Gantz,Q7040859,Deputy Prime Minister of Israel
+---,Q5360165,Eli Avidar,Q15733044,Minister without portfolio
 ---,Q39318,Naftali Bennett,Q110061158,Minister of Community Affairs
 ---,Q3663042,Karin Elharar,Q110061148,Minister of Water Resources
 ---,Q3663042,Karin Elharar,Q15732343,Minister of Energy
