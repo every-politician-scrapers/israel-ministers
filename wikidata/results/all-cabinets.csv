@@ -30,7 +30,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q654519,Twenty-eighth government of Israel,1999-07-06,11,1999-07-06,11,2001-03-07,11,2001-03-07,11,Q1813907,Twenty-seventh government of Israel,Q2065997,Twenty-ninth government of Israel,Q1813907,Twenty-seventh government of Israel,,
 ,Q2065997,Twenty-ninth government of Israel,2001-03-07,11,2001-03-07,11,2003-02-28,11,2003-02-28,11,Q654519,Twenty-eighth government of Israel,Q2541255,Thirtieth government of Israel,,,,
 ,Q2541255,Thirtieth government of Israel,2003-02-28,11,2003-02-28,11,2006-05-04,11,2006-05-04,11,Q2065997,Twenty-ninth government of Israel,Q2403287,Thirty-first government of Israel,,,,
-,Q2403287,Thirty-first government of Israel,2006-05-04,11,,,2009-03-31,11,,,Q2541255,Thirtieth government of Israel,Q2152615,Thirty-second government of Israel,Q2541255,Thirtieth government of Israel,Q2578249,cabinet of Israel
+,Q2403287,Thirty-first government of Israel,2006-05-04,11,,,2009-03-31,11,,,Q2541255,Thirtieth government of Israel,Q2152615,Thirty-second government of Israel,Q2541255,Thirtieth government of Israel,Q2152615,Thirty-second government of Israel
 ,Q2152615,Thirty-second government of Israel,2009-03-31,11,,,2013-03-18,11,,,Q2403287,Thirty-first government of Israel,Q7247480,thirty-third government of Israel,Q2403287,Thirty-first government of Israel,Q7247480,thirty-third government of Israel
 ,Q7247480,thirty-third government of Israel,2013-03-18,11,,,2015-05-14,11,,,Q2152615,Thirty-second government of Israel,Q19887488,thirty-fourth government of Israel,,,,
 34,Q19887488,thirty-fourth government of Israel,2015-05-14,11,,,2020-05-17,11,,,Q7247480,thirty-third government of Israel,Q28196000,thirty-fifth government of Israel,,,,
