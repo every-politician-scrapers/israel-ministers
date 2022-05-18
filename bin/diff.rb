@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::NulllessComparison
   def flags
     super.tap { |flags| flags.ignore_whitespace = true }
   end
