@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+      "name": "Israel",
+      "id": "Q801"
+    },
+    "cabinet": {
+      "id": "Q106306784",
+      "start": "2021-07-13",
+      "parent": "Q2578249"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel"
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "Israeli politician"
+    }
+}
