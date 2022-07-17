@@ -8,14 +8,16 @@
       "start": "2021-07-13",
       "parent": "Q2578249"
     },
-    "source": {
-        "url":   "https://m.knesset.gov.il/en/mk/government/pages/governments.aspx?govId=36",
-        "json":  "https://www.knesset.gov.il/WebSiteApi/knessetapi/goverment?GovId=36&Lang=EN",
-        "title": "Thirty-Sixth Government",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://m.knesset.gov.il/en/mk/government/pages/governments.aspx?govId=36",
+        "P1476": {
+            "text": "Thirty-Sixth Government",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/israel-ministers"
+    "source": "https://www.knesset.gov.il/WebSiteApi/knessetapi/goverment?GovId=36&Lang=EN",
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Israel"
+    }
 }
