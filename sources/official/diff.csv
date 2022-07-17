@@ -1,9 +1,3 @@
-@@,name,position,start
-->,Benjamin Gantz,Minister of Defense,2020-05-17->2021-06-13
-->,Ayelet Shaked,Minister of the Interior of Israel->Minister of the Interior,2021-06-13
----,Yair Lapid,Prime Minister of Israel,2022-07-01
----,Naftali Bennett,Alternate Prime Minister of Israel,2022-07-01
-+++,Yair Lapid,Alternate Prime Minister,2021-06-13
-+++,Naftali Bennett,Prime Minister,2021-06-13
-+++,Matan Kahana,Minister of Religious Services,2021-06-13
-+++,Eli Avidar,Minister in the Prime Minister's Office,2021-08-03
+@@,itemlabel,positionlabel,startdate,enddate
+->,Abir Kara,Deputy Minister in the Prime Minister's Office,2021-06-28->2022-07-04,
+->,Benjamin Gantz,Minister of Defense,2020-05-17->2021-06-13,
