@@ -1,0 +1,139 @@
+{
+  "title": "Meir Shlomo",
+  "pageID": 65178795,
+  "categories": [
+    "Ambassadors of Israel to Cambodia",
+    "Ambassadors of Israel to Thailand",
+    "Israeli consuls",
+    "1954 births",
+    "Living people",
+    "Hebrew University of Jerusalem Faculty of Social Sciences alumni",
+    "University of Paris alumni",
+    "Tel Aviv University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Meir Shlomo (born 1954, Tel Aviv) is the Israeli Ambassador to Thailand with non-resident status in Cambodia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tel Aviv"
+                },
+                {
+                  "text": "Israeli Ambassador to Thailand",
+                  "type": "internal",
+                  "page": "List of ambassadors of Israel to Thailand"
+                },
+                {
+                  "text": "Cambodia",
+                  "type": "internal",
+                  "page": "List of ambassadors of Israel to Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Meir Shlomo"
+                ]
+              }
+            },
+            {
+              "text": "and was the Israeli Consul to both Houston (2010–2015) and New England (2002–2006).",
+              "links": [
+                {
+                  "text": "Israeli Consul",
+                  "type": "internal",
+                  "page": "List of Consul Generals of Israel to the United States of America"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Thailand",
+          "url": "https://mfa.gov.il/MFA/AboutTheMinistry/Israeli%20ambassadors/Pages/Thailand.aspx",
+          "website": "Israel Ministry of Foreign Affairs",
+          "accessdate": "24 May 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Cambodia",
+          "url": "https://mfa.gov.il/MFA/AboutTheMinistry/Israeli%20ambassadors/Pages/Cambodia.aspx",
+          "website": "Israel Ministry of Foreign Affairs",
+          "accessdate": "28 May 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Beard",
+          "first1": "David",
+          "last2": "Stickgold",
+          "first2": "Emma",
+          "title": "Protester arrested outside Israeli's speech",
+          "url": "http://www.boston.com/news/local/articles/2005/10/24/protester_arrested_outside_israelis_speech/",
+          "accessdate": "31 August 2020",
+          "publisher": "The Boston Globe",
+          "date": "October 24, 2005",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "United States of America",
+          "url": "https://mfa.gov.il/MFA/AboutTheMinistry/Israeli%20ambassadors/Pages/United-States-of-America.aspx",
+          "website": "Israel Ministry of Foreign Affairs",
+          "accessdate": "30 May 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born and raised in Tel Aviv but his grandparents emigrated to Jerusalem in 1927 from Aden (later called the Democratic Republic of South Yemen)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shlomo earned a Ph.D. in history and communication from the University of Paris VIII and a Master’s degree in mass communication from the Hebrew University of Jerusalem."
+            },
+            {
+              "text": "He also has a Bachelor’s Degree in Political Science from Tel Aviv University."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Interview with Ambassador of Israel to Thailand, H.E. Dr. Meir Shlomo",
+          "url": "https://expatlifeinthailand.com/featured/interview-with-ambassador-of-israel-to-thailand-h-e-dr-meir-shlomo/",
+          "accessdate": "31 August 2020",
+          "publisher": "Expat Life in Thailand",
+          "date": "August 2, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

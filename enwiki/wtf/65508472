@@ -1,0 +1,150 @@
+{
+  "title": "Dror Eydar",
+  "pageID": 65508472,
+  "categories": [
+    "Ambassadors of Israel to Italy",
+    "Israeli columnists",
+    "Israeli newspaper editors",
+    "Year of birth missing (living people)",
+    "Living people",
+    "Bar-Ilan University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dror Eydar is an Israeli diplomat.",
+              "formatting": {
+                "bold": [
+                  "Dror Eydar"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed Israeli Ambassador to Italy on September 2, 2019.",
+              "links": [
+                {
+                  "text": "Israeli Ambassador to Italy",
+                  "type": "internal",
+                  "page": "List of ambassadors of Israel to Italy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli ambassador to Italy, literary theorist and journalist",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Italy confirms former Israel Hayom columnist Dror Eydar as ambassador",
+          "url": "https://www.israelhayom.com/2019/07/16/italy-confirms-former-israel-hayom-columnist-dror-eydars-as-ambassador/",
+          "accessdate": "1 July 2020",
+          "publisher": "Israel Hayom",
+          "date": "July 16, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dror Eydar earned a Ph.D. in Hebrew and Jewish literature from Bar Ilan University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bar Ilan University"
+                }
+              ]
+            },
+            {
+              "text": "He was a Israel Hayom columnist and op-ed editor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israel Hayom"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Israel Hayom"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "DR. DROR EYDAR",
+          "url": "https://www.israeliamerican.org/iac-national-conference/team-member/dr-dror-eydar",
+          "website": "Israeli American Council National Summit",
+          "access-date": "11 June 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Published works",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Alterman–Baudelaire; Paris – Tel Aviv: Urbanism and Myth in the Poetry of Nathan Alterman and Charles Baudelaire (2003)",
+            "formatting": {
+              "italic": [
+                "Alterman–Baudelaire"
+              ]
+            }
+          },
+          {
+            "text": "The Last of the Lord's Poets - Myth, Ethos, and Mysticism in the Literary Works of Yosef Zvi Rimon, (2009).",
+            "links": [
+              {
+                "text": "Yosef Zvi Rimon",
+                "type": "external",
+                "site": "https://he.m.wikipedia.org/wiki/יוסף_צבי_רימון"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "The Last of the Lord's Poets - Myth, Ethos, and Mysticism in the Literary Works of Yosef Zvi Rimon"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

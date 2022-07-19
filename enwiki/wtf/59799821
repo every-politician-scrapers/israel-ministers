@@ -1,0 +1,139 @@
+{
+  "title": "Yacov Hadas-Handelsman",
+  "pageID": 59799821,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Ambassadors of Israel to Germany",
+    "Ambassadors of Israel to Hungary",
+    "Ambassadors of Israel to Jordan",
+    "Ambassadors of Israel to the European Union",
+    "Hebrew University of Jerusalem alumni",
+    "People from Tel Aviv",
+    "Tel Aviv University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yacov Hadas-Handelsman (born August 22, 1957 in Tel Aviv) is the Israeli Ambassador to Hungary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tel Aviv"
+                },
+                {
+                  "text": "Israeli Ambassador to Hungary",
+                  "type": "internal",
+                  "page": "List of ambassadors of Israel to Hungary"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yacov Hadas-Handelsman"
+                ]
+              }
+            },
+            {
+              "text": "From 2012 to 2017 he was the Israeli ambassador to Germany, based at the Embassy of Israel, Berlin.",
+              "links": [
+                {
+                  "text": "Israeli ambassador to Germany",
+                  "type": "internal",
+                  "page": "List of ambassadors of Israel to Germany"
+                },
+                {
+                  "type": "internal",
+                  "page": "Embassy of Israel, Berlin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He earned a BA in Middle East and political science studies from Tel Aviv University and an MA in Middle East studies from Hebrew University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tel Aviv University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hebrew University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Yakov_Hadas-Handelsman,_Botschafter_des_Staates_Israel_in_Berlin.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Yakov_Hadas-Handelsman%2C_Botschafter_des_Staates_Israel_in_Berlin.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Yakov_Hadas-Handelsman%2C_Botschafter_des_Staates_Israel_in_Berlin.jpg",
+          "caption": "Yakov Hadas-Handelsman, pictured in 2014",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://embassies.gov.il/berlin/AboutTheEmbassy/Pages/Botschafter_HadasHandelsman.aspx",
+          "title": "Der Botschafter",
+          "website": "embassies.gov.il",
+          "access-date": "2019-01-29",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hagalil.com/2017/08/hadas-handelsman-3/",
+          "title": "\"Was nehme ich mit aus Deutschland?\"",
+          "date": "August 24, 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.juedische-allgemeine.de/politik/israels-neuer-mann-in-berlin/",
+          "title": "Israels neuer Mann in Berlin",
+          "first": "Zentralrat der Juden in Deutschland",
+          "last": "K.d.ö.R",
+          "date": "August 29, 2017",
+          "website": "Jüdische Allgemeine",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hungary",
+          "url": "https://mfa.gov.il/MFA/AboutTheMinistry/Israeli%20ambassadors/Pages/Hungary.aspx",
+          "website": "Israel Ministry of Foreign Affairs",
+          "access-date": "20 May 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "israel-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

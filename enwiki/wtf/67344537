@@ -1,0 +1,235 @@
+{
+  "title": "Abir Kara",
+  "pageID": 67344537,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Deputy ministers of Israel",
+    "Israeli businesspeople",
+    "Jewish Israeli politicians",
+    "Members of the 24th Knesset (2021–present)",
+    "Yamina politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Avraham \"Abir\" Kara (אַבְרָהָם \"אַבִּיר\" קָארָה, born 27 October 1983) is an Israeli businessman and politician.",
+              "formatting": {
+                "bold": [
+                  "Avraham",
+                  "Abir",
+                  "Kara"
+                ]
+              }
+            },
+            {
+              "text": "He is currently a member of the Knesset for Yamina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knesset"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yamina"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Israeli businessman and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1983",
+          "month": "10",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Abir Kara.jpg"
+          },
+          "birth_date": {
+            "text": "October 27, 1983"
+          },
+          "birth_place": {
+            "text": "Jerusalem, Israel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerusalem"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Faction represented in the Knesset",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knesset"
+              }
+            ]
+          },
+          "suboffice1": {
+            "text": "Yamina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yamina"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "2021–"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kara used his bar mitzvah money to open a flower stall, later expanding the business to several branches.",
+              "links": [
+                {
+                  "text": "bar mitzvah",
+                  "type": "internal",
+                  "page": "Bar and bat mitzvah"
+                }
+              ]
+            },
+            {
+              "text": "After completing his military service in the Israel Defense Forces he opened a horse ranch, and later ran franchises of a waffle bar and a pizza restaurant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israel Defense Forces"
+                }
+              ]
+            },
+            {
+              "text": "In 2006 he was sentenced to 240 hours of community service for swearing at a police officer when he was caught putting up illegal election signs."
+            },
+            {
+              "text": "He also admitted to uprooting olive trees owned by Palestinians."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019 Kara and another restaurant owner established 'I am Shulman' group, which protests against how the government treats self-employed workers."
+            },
+            {
+              "text": "In less than a month its Facebook group had grown to 120,000 members."
+            },
+            {
+              "text": "Having turned down the opportunity to join Likud, claiming that groups including the Histadrut union held too much power over the party, prior to the 2021 elections he joined Yamina and was placed seventh on its list.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Likud"
+                },
+                {
+                  "type": "internal",
+                  "page": "Histadrut"
+                },
+                {
+                  "text": "2021 elections",
+                  "type": "internal",
+                  "page": "2021 Israeli legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yamina"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to the Knesset as the party won seven seats and was appointed Deputy Minister in the Prime Minister's Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister in the Prime Minister's Office"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "1065",
+          "template": "mklink"
+        },
+        {
+          "template": "current government of israel"
+        },
+        {
+          "template": "current mks"
+        }
+      ]
+    }
+  ]
+}
