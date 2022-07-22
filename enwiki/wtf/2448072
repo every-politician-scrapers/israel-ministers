@@ -47,16 +47,12 @@
         {
           "sentences": [
             {
-              "text": "Yair Lapid (יָאִיר לַפִּיד, transliterated: Yāʾīr Lapīð, ; born 5 November 1963) is an Israeli politician and former journalist who is the chairman of the centrist Yesh Atid party, and became the 14th prime minister of Israel on 1 July 2022.",
+              "text": "Yair Lapid (יָאִיר לַפִּיד, transliterated: Yāʾīr Lapīð, ; born 5 November 1963) is an Israeli politician and former journalist who has been serving as the 14th prime minister of Israel since 1 July 2022.",
               "links": [
                 {
                   "text": "journalist",
                   "type": "internal",
                   "page": "journalist"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yesh Atid"
                 },
                 {
                   "text": "prime minister of Israel",
@@ -86,8 +82,12 @@
               ]
             },
             {
-              "text": "He was Leader of the Opposition from 2020 to 2021, and Minister of Finance from 2013 to 2014.",
+              "text": "Lapid is the chairman of the centrist Yesh Atid party, and was Leader of the Opposition from 2020 to 2021, and Minister of Finance from 2013 to 2014.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Yesh Atid"
+                },
                 {
                   "text": "Leader of the Opposition",
                   "type": "internal",
