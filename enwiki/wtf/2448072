@@ -647,16 +647,13 @@
           "type": "web"
         },
         {
-          "last": "Estrin",
-          "first": "Daniel",
-          "title": "Israel's prime minister is stepping down, sparking a new round of elections",
-          "url": "https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu",
-          "publisher": "NPR",
-          "date": "20 June 2022",
-          "access-date": "24 June 2022",
-          "archive-date": "1 July 2022",
-          "archive-url": "https://web.archive.org/web/20220701001931/https://www.npr.org/2022/06/20/1106282784/israel-coalition-collapse-bennett-netanyahu",
-          "url-status": "live",
+          "last": "Spiro",
+          "first": "Amy",
+          "title": "Yair Lapid takes over as Israel’s 14th prime minister",
+          "website": "The Times of Israel",
+          "date": "1 July 2022",
+          "url": "https://www.timesofisrael.com/yair-lapid-takes-over-as-israels-14th-prime-minister/",
+          "accessdate": "22 July 2022",
           "template": "citation",
           "type": "web"
         },
