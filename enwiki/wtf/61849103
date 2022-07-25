@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Matan Kahana (מַתָּן כַּהֲנָא, born 29 July 1972) is an Israeli politician who serves as acting Minister of Religious Services and as a member of Knesset for New Right and Yamina.",
+              "text": "Matan Kahana (מַתָּן כַּהֲנָא, born 29 July 1972) is an Israeli politician who serves as deputy Minister of Religious Services and as a member of Knesset for New Right and Yamina.",
               "links": [
                 {
                   "text": "Minister of Religious Services",
@@ -138,7 +138,7 @@
             ]
           },
           "subterm": {
-            "text": "2021–"
+            "text": "2021–2022"
           },
           "office1": {
             "text": "Faction represented in the Knesset",
@@ -553,7 +553,7 @@
               ]
             },
             {
-              "text": "The move was meant to “help strengthen the coalition.”"
+              "text": "The move was meant to “help strengthen the coalition.” Following his resignation, Kahana quickly returned to the government, this time as deputy Religious Services Minister."
             }
           ]
         }
@@ -608,6 +608,17 @@
           "url": "https://www.jpost.com/breaking-news/article-706637",
           "access-date": "2022-05-13",
           "website": "The Jerusalem Post {{!}} JPost.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "staff",
+          "first": "T. O. I.",
+          "title": "Cabinet advances reappointment of Yamina’s Kahana as minister",
+          "url": "https://www.timesofisrael.com/cabinet-advances-reappointment-of-yaminas-kahana-as-minister/",
+          "access-date": "2022-07-24",
+          "website": "www.timesofisrael.com",
           "language": "en-US",
           "template": "citation",
           "type": "web"
