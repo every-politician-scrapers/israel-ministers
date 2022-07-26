@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Construction (Israel)"
+      ],
+      "stated_as": "Minister of Housing and Construction"
+    },
+    "P580": "2005-01-10",
+    "P1365": {
+      "links": [
+        "Tzipi Livni"
+      ],
+      "stated_as": "Tzipi Livni"
+    },
+    "P582": "2005-11-23",
+    "P1366": {
+      "links": [
+        "Ze'ev Boim"
+      ],
+      "stated_as": "Ze'ev Boim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Tourism (Israel)"
+      ],
+      "stated_as": "Minister of Tourism"
+    },
+    "P580": "2006-05-04",
+    "P1365": {
+      "links": [
+        "Avraham Hirschson"
+      ],
+      "stated_as": "Avraham Hirschson"
+    },
+    "P582": "2007-03-21",
+    "P1366": {
+      "links": [
+        "Yitzhak Aharonovich"
+      ],
+      "stated_as": "Yitzhak Aharonovich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labor, Social Affairs and Social Services"
+      ],
+      "stated_as": "Minister of Welfare and Social Services"
+    },
+    "P580": "2007-03-21",
+    "P1365": {
+      "links": [
+        "Ehud Olmert"
+      ],
+      "stated_as": "Ehud Olmert"
+    },
+    "P582": "2011-01-17",
+    "P1366": {
+      "links": [
+        "Moshe Kahlon"
+      ],
+      "stated_as": "Moshe Kahlon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Ministry of Diaspora Affairs|Minister of Diaspora, Society and the\nFight Against Antisemitism]]"
+    },
+    "P580": "2007-03-21",
+    "P1365": {
+      "links": [
+        "Natan Sharansky"
+      ],
+      "stated_as": "Natan Sharansky"
+    },
+    "P582": "2009-03-31",
+    "P1366": {
+      "links": [
+        "Yuli-Yoel Edelstein"
+      ],
+      "stated_as": "Yuli-Yoel Edelstein"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Israel)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2013-11-25",
+    "P1365": {
+      "links": [
+        "Shelly Yachimovich"
+      ],
+      "stated_as": "Shelly Yachimovich"
+    },
+    "P582": "2018-07-31",
+    "P1366": {
+      "links": [
+        "Tzipi Livni"
+      ],
+      "stated_as": "Tzipi Livni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Israel"
+    },
+    "P1545": "11",
+    "P580": "2021-07-07",
+    "P1365": {
+      "links": [
+        "Reuven Rivlin"
+      ],
+      "stated_as": "Reuven Rivlin"
+    }
+  }
+]

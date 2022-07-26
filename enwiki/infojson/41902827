@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "National Security Advisor (Israel)"
+    },
+    "P1545": "9",
+    "P580": "2013-08",
+    "P1365": {
+      "links": [
+        "Yaakov Amidror"
+      ],
+      "stated_as": "Yaakov Amidror"
+    },
+    "P582": "2016-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Mossad"
+      ],
+      "stated_as": "Director of Mossad"
+    },
+    "P580": "2016-01",
+    "P1365": {
+      "links": [
+        "Tamir Pardo"
+      ],
+      "stated_as": "Tamir Pardo"
+    },
+    "P582": "2021-06",
+    "P1366": {
+      "links": [
+        "David Barnea"
+      ],
+      "stated_as": "David Barnea"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Attorney General of Israel"
+      ],
+      "stated_as": "12th Attorney General of Israel"
+    },
+    "P580": "2004-02-01",
+    "P1365": {
+      "links": [
+        "Elyakim Rubinstein"
+      ],
+      "stated_as": "Elyakim Rubinstein"
+    },
+    "P582": "2010-02-01",
+    "P1366": {
+      "links": [
+        "Yehuda Weinstein"
+      ],
+      "stated_as": "Yehuda Weinstein"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Israel"
+      ],
+      "stated_as": "Justice of the Supreme Court of Israel"
+    },
+    "P580": "2014-11-10",
+    "P582": "2021-04-30"
+  }
+]
