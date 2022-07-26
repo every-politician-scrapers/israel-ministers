@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Tel Aviv District Attorney for Civil Affairs"
+    },
+    "P580": "2007",
+    "P582": "2015"
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of Israel"
+      ],
+      "stated_as": "15th Attorney General of Israel"
+    },
+    "P580": "2022-02-07",
+    "P1365": {
+      "links": [
+        "Avichai Mandelblit"
+      ],
+      "stated_as": "Avichai Mandelblit"
+    }
+  }
+]

@@ -1,61 +1,62 @@
-pageid,title
-485357,Gideon Sa'ar
-1704303,Avigdor Lieberman
-2260984,Ron Dermer
-2448072,Yair Lapid
-2571075,Menachem Mazuz
-4239807,Aviv Kochavi
-4645588,Isaac Herzog
-5224052,Elazar Stern
-5234157,Benny Gantz
-6169433,Avi Pazner
-11814243,Yoel Razvozov
-13213250,Danny Danon
-13682831,Ze'ev Elkin
-19819520,Nitzan Horowitz
-20870911,Yair Golan
-21773924,Nachman Shai
-22018424,Hamad Amar
-23745314,Shoshana Netanyahu
-24095181,Neal Hendel
-25476735,Meir Yitzhak Halevi
-26583203,Anna Azari
-30084068,Hanan Melcer
-31894229,Orna Barbivai
-34240895,Yoaz Hendel
-34868789,Uzi Vogelman
-37551165,Merav Michaeli
-38170800,Ayelet Shaked
-38307330,Omer Bar-Lev
-38308343,Issawi Frej
-38317577,Meir Cohen (politician)
-38319559,Karine Elharrar
-38319709,Pnina Tamano-Shata
-38326447,Mickey Levy
-38353881,Tamar Zandberg
-39754840,Naftali Bennett
-41902827,Yossi Cohen
-46195126,Yifat Shasha-Biton
-47700131,Oded Forer
-48697455,Esther Hayut
-55989512,Moshe Lion
-58703238,Amir Yaron
-58740293,Ofer Grosskopf
-59799821,Yacov Hadas-Handelsman
-60476878,Hili Tropper
-60553566,Orit Farkash-Hacohen
-60555581,Idan Roll
-60560886,Meirav Cohen
-60629020,Alon Schuster
-60632516,Yoav Segalovich
-61849103,Matan Kahana
-62665436,Galit Ronen
-63303976,Amira Oron
-63776091,Ilan Mor
-64203778,Rodica Radian-Gordon
-65178795,Meir Shlomo
-65508472,Dror Eydar
-65656071,Meir Ben-Shabbat
-67344537,Abir Kara
-67751882,David Barnea
-70010685,Gali Baharav-Miara
+pageid,title,wikidata,label
+485357,Gideon Sa'ar,Q966349,Gideon Sa'ar
+1704303,Avigdor Lieberman,Q58311,Avigdor Lieberman
+2260984,Ron Dermer,Q7363705,Ron Dermer
+2448072,Yair Lapid,Q1396120,Yair Lapid
+2571075,Menachem Mazuz,Q2614407,Menachem Mazuz
+4239807,Aviv Kochavi,Q2088195,Aviv Kochavi
+4645588,Isaac Herzog,Q983258,Isaac Herzog
+5224052,Elazar Stern,Q4358424,Elazar Stern
+5234157,Benny Gantz,Q557436,Benny Gantz
+6169433,Avi Pazner,Q790703,Avi Pazner
+11814243,Yoel Razvozov,Q2468984,Yoel Razvozov
+13213250,Danny Danon,Q2919440,Danny Danon
+13682831,Ze'ev Elkin,Q2583898,Ze'ev Elkin
+19819520,Nitzan Horowitz,Q2916662,Nitzan Horowitz
+20287786,Tzipi Hotovely,Q445606,Tzipi Hotovely
+20870911,Yair Golan,Q569975,Yair Golan
+21773924,Nachman Shai,Q2612721,Nachman Shai
+22018424,Hamad Amar,Q1572575,Hamad Amar
+23745314,Shoshana Netanyahu,Q5621710,Shoshana Netanyahu
+24095181,Neal Hendel,Q2897153,Neal Hendel
+25476735,Meir Yitzhak Halevi,Q6810271,Meir Yitzhak Halevi
+26583203,Anna Azari,Q441363,Anna Azari
+30084068,Hanan Melcer,Q5646905,Hanan Melcer
+31894229,Orna Barbivai,Q2783222,Orna Barbivai
+34240895,Yoaz Hendel,Q8054214,Yoaz Hendel
+34868789,Uzi Vogelman,Q2903894,Uzi Vogelman
+37551165,Merav Michaeli,Q391262,Merav Michaeli
+38170800,Ayelet Shaked,Q2791686,Ayelet Shaked
+38307330,Omer Bar-Lev,Q3593286,Omer Bar-Lev
+38308343,Issawi Frej,Q3594030,Issawi Frej
+38317577,Meir Cohen (politician),Q3663051,Meir Cohen
+38319559,Karine Elharrar,Q3663042,Karin Elharar
+38319709,Pnina Tamano-Shata,Q3663047,Pnina Tamano-Shata
+38326447,Mickey Levy,Q3701621,Mickey Levy
+38353881,Tamar Zandberg,Q3818052,Tamar Zandberg
+39754840,Naftali Bennett,Q39318,Naftali Bennett
+41902827,Yossi Cohen,Q15725863,Yossi Cohen
+46195126,Yifat Shasha-Biton,Q19634043,Yifat Shasha-Biton
+47700131,Oded Forer,Q20898016,Oded Forer
+48697455,Esther Hayut,Q6705743,Esther Hayut
+55989512,Moshe Lion,Q12409594,Moshe Lion
+58703238,Amir Yaron,Q41800340,Amir Yaron
+58740293,Ofer Grosskopf,Q43374037,Ofer Grosskopf
+59799821,Yacov Hadas-Handelsman,Q1290588,Yakov Hadas-Handelsman
+60476878,Hili Tropper,Q6940081,Yechiel Tropper
+60553566,Orit Farkash-Hacohen,Q20071724,Orit Farkash Hacohen
+60555581,Idan Roll,Q59519064,Idan Roll
+60560886,Meirav Cohen,Q7030786,Meirav Cohen
+60629020,Alon Schuster,Q6965078,Alon Schuster
+60632516,Yoav Segalovich,Q6832388,Yoav Segalovich
+61849103,Matan Kahana,Q60951122,Matan Kahana
+62665436,Galit Ronen,Q66737975,Galit Ronen
+63303976,Amira Oron,Q18814801,Amira Oron
+63776091,Ilan Mor,Q12814703,Ilan Mor
+64203778,Rodica Radian-Gordon,Q2161113,Rodica Radian-Gordon
+65178795,Meir Shlomo,Q98807372,Meir Shlomo
+65508472,Dror Eydar,Q12405892,Dror Eydar
+65656071,Meir Ben-Shabbat,Q37763051,Meir Ben Shabbat
+67344537,Abir Kara,Q106226059,Abir Kara
+67751882,David Barnea,Q106962786,David Barnea
+70010685,Gali Baharav-Miara,Q110612168,Gali Baharav Miara
