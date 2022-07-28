@@ -108,6 +108,9 @@
                   "page": "Ministry of Health (Israel)"
                 }
               ]
+            },
+            {
+              "text": "In July 2022, he announced that he is stepping down as Meretz's leader."
             }
           ]
         }
@@ -748,6 +751,20 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the Knesset's dissolution and new elections scheduled for November 2022, Horowitz announced that he will step down as leader of Meretz.",
+              "links": [
+                {
+                  "text": "elections",
+                  "type": "internal",
+                  "page": "2022 Israeli legislative election"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -863,6 +880,17 @@
           "title": "Israel's coalition crumbles as MK walks out over chametz row",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "כהן",
+          "first": "שירית אביטן",
+          "date": "2022-07-12",
+          "title": "ניצן הורוביץ לא יתמודד על ראשות מרצ; ימשיך ברשימה לכנסת הבאה",
+          "work": "Globes",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001417815",
+          "access-date": "2022-07-27",
+          "template": "citation",
+          "type": "news"
         },
         {
           "last": "Paz",

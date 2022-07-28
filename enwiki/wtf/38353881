@@ -200,8 +200,12 @@
               ]
             },
             {
-              "text": "She holds a master's degree in Social Psychology from Ben-Gurion University of the Negev and a Law Degree (LLB) from Tel Aviv University, and until entering the Knesset she taught at Sapir Academic College in the Management and Public Policy department.",
+              "text": "She holds a bachelor's degree in Psychology and Economics from the Hebrew University of Jerusalem, master's degree in Social Psychology from Ben-Gurion University of the Negev and a Law Degree (LLB) from Tel Aviv University, and until entering the Knesset she taught at Sapir Academic College in the Management and Public Policy department.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Hebrew University of Jerusalem"
+                },
                 {
                   "type": "internal",
                   "page": "Ben-Gurion University of the Negev"
